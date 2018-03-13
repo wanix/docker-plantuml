@@ -1,0 +1,5 @@
+@startuml
+rectangle left #lightgreen
+rectangle right #red
+left -r-> right
+@enduml
