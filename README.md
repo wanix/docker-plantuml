@@ -24,3 +24,6 @@ docker build -t wanix/plantuml .
 
 ## Licence ##
 [Apache Licence V2](LICENSE)
+
+## Thanks ##
+The PlantUML team: [official site](http://plantuml.com), [github repositories](https://github.com/plantuml)
