@@ -1,6 +1,6 @@
 FROM alpine:3.7
 MAINTAINER Erwan SEITE <wanix(dot)fr(at)gmail(dot)com>
-ENV PLANTUML_VERSION  v1.2018.2
+ENV PLANTUML_VERSION  v1.2018.4
 
 RUN mkdir -p /opt/plantuml /tmp/plantuml /srv/plantuml
 RUN apk add --update --no-cache curl tar gzip maven openjdk8 && \
